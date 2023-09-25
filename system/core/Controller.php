@@ -64,8 +64,6 @@ class CI_Controller {
 	public $security;
 	public $input;
 	public $lang;
-	public $db;
-	public $email;
 
 	/**
 	 * Reference to the CI singleton
